@@ -3,3 +3,5 @@ pierwsze zmiany
 zmiay w faeture 1
 
 drugie zmiany w feature
+
+ktos zrobil zmiany na masterze
