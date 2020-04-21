@@ -5,3 +5,6 @@ zmiay w faeture 1
 drugie zmiany w feature
 
 zmianka
+
+ktos zrobil zmiany na masterze
+
